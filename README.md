@@ -8,4 +8,4 @@ Customizable settings ensure that the extension aligns with your unique preferen
 Please download this repo and use 'Load Unpacked Extension'.
 
 ### Contributing
-Please see  the collaborations file for information on how to format your contributions to this project.
+Please see the [style guide](https://docs.github.com/en/contributing) for information on how to format your contributions to this project.
