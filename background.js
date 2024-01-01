@@ -5,4 +5,4 @@ var randomIndex = Math.floor(randomNumber * quotes.length);
 var randomQuote = quotes[randomIndex];
 var randomAuthor = authors[randomIndex];
 document.getElementById("quote").innerHTML = randomQuote;
-document.getElementById("author").innerHTML = "- "+randomAuthor;
+document.getElementById("author").innerHTML = "- " + randomAuthor;
