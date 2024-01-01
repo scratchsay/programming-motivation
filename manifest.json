@@ -1,0 +1,15 @@
+{
+    "name": "Programming Motivation",
+    "version": "1.0",
+    "description": "https://github.com/scratchsay/programming-motivation",
+    "action": {
+        "default_title": "Programming Motivation",
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 3,
+    "permissions": ["tabs"],
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    }
+}
