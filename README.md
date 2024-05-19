@@ -1,4 +1,4 @@
-# Programming Motivation (Chrome Extension)
+# Programming Motivation
 Chrome extension for motivation during programming. By integrating into your browsing experience, it gives you a constant stream of quotes with their respective authors. Designed to be a source of encouragement, this extension strives to motivate and keep you focused on your goals.
 
 Customizable settings ensure that the extension aligns with your unique preferences. Change the frequency of quotes, explore different themes. The goal is to create a personalized experience that helps you in your coding journey.
