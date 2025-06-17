@@ -1,4 +1,4 @@
-# Quotable
+# Quotability
 See 2 new quotes every day! A helpful chrome extension for staying motivated to achieve your goals.
 
 New settings for changing the frequency as well as themes for quotes. Have fun!
